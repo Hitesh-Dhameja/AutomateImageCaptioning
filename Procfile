@@ -1,0 +1,1 @@
+web: gunicorn ImageCaption.wsgi:application --log-file -

@@ -1,0 +1,14 @@
+Django==3.2.12
+englisttohindi==4.1.0
+h5py==3.6.0
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+numpy==1.21.5
+Pillow==9.0.1
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow-cpu==2.8.0
+tensorflow-io-gcs-filesystem==0.24.0
+gunicorn==19.9.0
+whitenoise==6.0.0
